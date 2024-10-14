@@ -21,11 +21,11 @@
             android:exported="false">
         </activity>
         <activity
-            android:name=".chooseRecipient"
+            android:name=".SelectPurpose"
             android:exported="false">
         </activity>
         <activity
-            android:name=".SelectPurpose"
+            android:name=".chooseRecipient"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
